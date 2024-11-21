@@ -7,3 +7,5 @@
 [styled-components](https://styled-components.com/docs/basics#installation)
 <br>
 [phosphor-react-native](https://phosphoricons.com/)
+<br>
+[expo-google-fonts](https://docs.expo.dev/develop/user-interface/fonts/)
