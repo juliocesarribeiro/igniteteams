@@ -9,3 +9,5 @@
 [phosphor-react-native](https://phosphoricons.com/)
 <br>
 [expo-google-fonts](https://docs.expo.dev/develop/user-interface/fonts/)
+<br>
+[react-native-svg](https://docs.expo.dev/versions/latest/sdk/svg/)
